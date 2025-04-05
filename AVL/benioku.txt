@@ -1,0 +1,1 @@
+Bazı ağaçlar çok büyük olduğu için komut istemcisinde satır başı yapabiliyor. Bunun için ölçeği küçültünüz.
